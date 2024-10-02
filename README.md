@@ -1,5 +1,4 @@
 # Super-store-Analysis-
-Comprehensive analysis of superstore data using Power BI, offering insights into sales, customer behavior, and market trends. The dashboard enables better decision-making, increasing sales forecasting accuracy by 25%, improving inventory management by 20%, and enhancing customer segmentation by 30%.
 
 1) Project Overview:-
 This project analyzes superstore data to derive actionable insights on sales, customer behavior, and market trends. It uses Power BI to create interactive dashboards for visualizing key business metrics, aimed at improving decision-making and business growth.
